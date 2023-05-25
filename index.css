@@ -59,7 +59,7 @@ label {
 input {
     border-radius: 50px;
     margin-left: 10px;
-    
+
 }
 .submit-btn {
   height: 40px;  
@@ -71,5 +71,5 @@ input {
 }
 .submit-btn:hover {
     background-color: rgb(138, 188, 246);
-    cursor: pointer;
+   cursor: pointer;
 }
